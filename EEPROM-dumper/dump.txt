@@ -1,0 +1,180 @@
+����..................................................AT24C02 detected!
+
+
+--- AT24C02 EEPROM Dump (256 Bytes) ---
+
+Offset    00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F  |ASCII|
+
+-------------------------------------------------------------------
+
+000: 10 A9 21 01 10 00 00 00 FF FF FF FF FF FF FF FF  |..!.............|
+
+010: 00 CC DF 45 EE 1B 5B D4 B1 E4 4D 41 F5 4D 4F 80  |...E..[...MA.MO.|
+
+020: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+030: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+040: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+050: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+060: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+070: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+080: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+090: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0A0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0B0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0C0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0D0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0E0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0F0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+-------------------------------------------------------------------
+
+Dump complete.
+
+ESP-ROM:esp32s3-20210327
+
+Build:Mar 27 2021
+
+rst:0x1 (POWERON),boot:0x9 (SPI_FAST_FLASH_BOOT)
+
+SPIWP:0xee
+
+mode:DIO, clock div:1
+
+load:0x3fce3818,len:0x508
+
+load:0x403c9700,len:0x4
+
+load:0x403c9704,len:0xad0
+
+load:0x403cc700,len:0x29e4
+
+entry 0x403c9880
+
+Searching for AT24C02 at 0x50...
+
+AT24C02 detected!
+
+
+--- AT24C02 EEPROM Dump (256 Bytes) ---
+
+Offset    00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F  |ASCII|
+
+-------------------------------------------------------------------
+
+000: 10 A9 21 01 10 00 00 00 FF FF FF FF FF FF FF FF  |..!.............|
+
+010: 00 CC DF 45 EE 1B 5B D4 B1 E4 4D 41 F5 4D 4F 80  |...E..[...MA.MO.|
+
+020: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+030: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+040: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+050: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+060: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+070: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+080: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+090: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0A0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0B0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0C0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0D0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0E0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0F0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+-------------------------------------------------------------------
+
+Dump complete.
+
+ESP-ROM:esp32s3-20210327
+
+Build:Mar 27 2021
+
+rst:0x1 (POWERON),boot:0x9 (SPI_FAST_FLASH_BOOT)
+
+SPIWP:0xee
+
+mode:DIO, clock div:1
+
+load:0x3fce3818,len:0x508
+
+load:0x403c9700,len:0x4
+
+load:0x403c9704,len:0xad0
+
+load:0x403cc700,len:0x29e4
+
+entry 0x403c9880
+
+Searching for AT24C02 at 0x50...
+
+AT24C02 detected!
+
+
+--- AT24C02 EEPROM Dump (256 Bytes) ---
+
+Offset    00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F  |ASCII|
+
+-------------------------------------------------------------------
+
+000: 10 A9 21 01 10 00 00 00 FF FF FF FF FF FF FF FF  |..!.............|
+
+010: 00 CC DF 45 EE 1B 5B D4 B1 E4 4D 41 F5 4D 4F 80  |...E..[...MA.MO.|
+
+020: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+030: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+040: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+050: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+060: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+070: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+080: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+090: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0A0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0B0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0C0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0D0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0E0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+0F0: FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF FF  |................|
+
+-------------------------------------------------------------------
+
+Dump complete.
+
+
